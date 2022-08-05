@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://www.notion.so/xivraiding/Oh-The-Savagery-2bd96288f6a244bfb538d7f8b6b9411b", 
+      "permanent": true
+    },
+    {
+      "source": "/p4s",
+      "destination": "https://www.notion.so/xivraiding/The-Fourth-Circle-Part-1-28645e33413245febeb6cf842fb2ef7d", 
+      "permanent": true
+    },
+    {
+      "source": "/p4s-2",
+      "destination": "https://www.notion.so/xivraiding/The-Fourth-Circle-Part-2-2aca5ad4707845e0b0ab465bbf981ec2", 
+      "permanent": true
+    },
+    {
+      "source": "/tea",
+      "destination": "https://www.notion.so/xivraiding/Oh-The-Savagery-2bd96288f6a244bfb538d7f8b6b9411b", 
+      "permanent": true
+    },
+  ]
+}
