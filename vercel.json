@@ -16,8 +16,13 @@
       "permanent": true
     },
     {
+      "source": "/p5s",
+      "destination": "https://xivraiding.notion.site/The-Fifth-Circle-bc59e0f4e5614313bc19b421b2737e4e", 
+      "permanent": true
+    }
+    {
       "source": "/tea",
-      "destination": "https://www.notion.so/xivraiding/Oh-The-Savagery-2bd96288f6a244bfb538d7f8b6b9411b", 
+      "destination": "https://www.notion.so/xivraiding/The-Fifth-Circle-bc59e0f4e5614313bc19b421b2737e4e", 
       "permanent": true
     }
   ]
